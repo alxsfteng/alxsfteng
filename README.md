@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Alex and i am a new software engineer.
+I am currently learning to become the best software engineer I can be.
+I like to play video games like league of legends.
